@@ -9,7 +9,7 @@ This is inspired by https://github.com/met-office-lab/WeatherSpark_
 
 If the weather for the periods above are good + the previous 3 periods
 (9 hours) weather was ok, a smiley face/neutral face/sad face is also returned
-indicating in one line the likelihood that the weather is good for tennis - see
+indicating in one line the likelihood that the weather is good - see
 function 'calc_nice_day_emoticon'
 
 The pushbullet and met office API keys PUSHBULLET_API_KEY and
